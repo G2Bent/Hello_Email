@@ -8,4 +8,4 @@ notifications:
 python:
   - 3.6
 script:
-  - python subscribe.py
+  - python email_say_hello.py
